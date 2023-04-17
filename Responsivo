@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>FOFOCAMP - A Fofoca em constante atualização</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Teste.css">
+
+</head>
+
+<body>
+    
+ <header class="header">
+       
+        <img src="8b43c3d6-d45c-4832-80cc-919c2a05ed85.jpg"/ class="img">	
+         <nav class="ab"> 		
+            
+             <a href="../CSS Projeto Final/Teste.html">Home</a>
+             <a href="../CSS Projeto Final/Cadastro.html">Cadastro</a>
+             <a href="Contato.html">Contato</a>   
+            
+         <div class="busca">
+          <form>
+            <input type="busca" nome="busca" id="busca" placeholder="busca">
+            <input type="submit" name="submit" value="Começar">
+           </form>
+           </div>
+          </nav>
+ </header>
+    
+    <section class="Master">
+            
+        <div class="a1">
+            <div class="img1">
+            
+                <img src="gato.jpg" width="250px" height="250px"><br>
+                <h4>Texto aqui<br>
+                    Texto aqui
+                </h4>
+            </div>
+                <div class="img2">
+                <img src="gato.jpg" width="250px" height="250px"><br>
+                <h4>Texto aqui<br>
+                    Texto aqui
+                </h4>
+                </div>
+            <div class="img3">
+                <img src="gato.jpg" width="250px" height="250px"><br>
+                <h4>Texto aqui<br>
+                    Texto aqui
+                </h4>
+            </div>
+            </div>
+
+            <div class="a2">
+                <div class="img4">
+                <img src="8b43c3d6-d45c-4832-80cc-919c2a05ed85.jpg" width="250px" height="200px">
+                <h4>Texto aqui<br>
+                    Texto aqui
+                </h4>
+                </div>
+                <div class="img5">
+                    <img src="8b43c3d6-d45c-4832-80cc-919c2a05ed85.jpg" width="250px" height="200px">
+                    <h4>Texto aqui<br>
+                        Texto aqui
+                    </h4>
+                    </div>
+                <div class="img6">
+                 <img src="8b43c3d6-d45c-4832-80cc-919c2a05ed85.jpg" width="250px" height="200px">
+                 <h4>Texto aqui<br>
+                    Texto aqui
+                </h4>
+                </div>
+            </div>
+            
+</section>
+        
+        <footer class="rodapé">
+           <a href="https://instagram.com/soulcodeacademy?igshid=YmMyMTA2M2Y=">
+            <img src="" width="90px" height="50px">
+        </a>
+            <a href="https://www.linkedin.com/company/soulcodeacademy/mycompany/">
+            <img src="" width="80px" height="50px">
+        </a>
+            <a href="https://www.linkedin.com/company/soulcodeacademy/mycompany/"></a>
+            <img src="" width="80px" height="50px">
+        </footer>
+</body>
+</html>
