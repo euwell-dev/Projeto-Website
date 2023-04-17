@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: #af8ff0;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+
+}
+
+.img{
+    height: 150px;
+}
+
+.busca{
+
+}
+
+.btn {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.btn form {
+    display: flex;
+    align-items: center;
+}
+
+.btn input[type="busca"] {
+    border: none;
+    padding: 5px;
+    font-size: 16px;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.btn input[type="submit"] {
+    background-color: white;
+    border: none;
+    color: #5e17eb;
+    font-size: 16px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.Master {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.a1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20%;
+    position: static;
+}
+
+ .a2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    position: static;
+}
+
+.img1 {
+    width: 250px;
+    margin: 10px;
+}
+
+.img2 {
+    width: 250px;
+    margin: 10px;
+}
+
+.img3 {
+    width: 250px;
+    margin: 10px;
+}
+
+.img4 {
+    width: 250px;
+    margin: 10px;
+}
+
+.img5 {
+    width: 250px;
+    margin: 10px;
+}
+
+.img6 {
+    width: 250px;
+    margin: 10px;
+}
+
+.rodapé {
+    background-color: #5e17eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    padding: 0 20px;
+    margin-top: 5%;
+}
+
